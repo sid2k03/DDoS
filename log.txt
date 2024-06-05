@@ -1,0 +1,30 @@
+UserID: 6817570493 | Time: 2024-06-04 16:22:51.633028 | Command: /bgmi | Target: 192.168.1.1 | Port: 80 | Time: 180
+Username: @cookies_in
+Target: 192.168.1.1
+Port: 80
+Time: 180
+
+UserID: 6817570493 | Time: 2024-06-04 16:42:04.988729 | Command: /bgmi | Target: 20.235.92.72 | Port: 25059 | Time: 180
+Username: @cookies_in
+Target: 20.235.92.72
+Port: 25059
+Time: 180
+
+UserID: 6817570493 | Time: 2024-06-05 12:52:14.749954 | Command: /bgmi | Target: 20.235.92.72 | Port: 25059 | Time: 180
+Username: @cookies_in
+Target: 20.235.92.72
+Port: 25059
+Time: 180
+
+UserID: 1060030099 | Time: 2024-06-05 12:55:26.219405 | Command: /bgmi | Target: 20.235.92.72 | Port: 25059 | Time: 180
+Username: @SIGMA_LORD
+Target: 20.235.92.72
+Port: 25059
+Time: 180
+
+UserID: 6817570493 | Time: 2024-06-05 12:59:42.347793 | Command: /bgmi | Target: 20.235.92.72 | Port: 25059 | Time: 180
+Username: @cookies_in
+Target: 20.235.92.72
+Port: 25059
+Time: 180
+
